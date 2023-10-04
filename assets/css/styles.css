@@ -19,21 +19,25 @@ header a {
 .info {
     top: 15%;
     left: 30%;
+    background: transparent;
 }
 
 .req {
     top: 15%;
     left: 40%;
+    background: transparent;
 }
 
 .log {
     top: 15%;
     left: 50%;
+    background: transparent;
 }
 
 .main-page {
     top: 15%;
     left: 58%;
+    background: transparent;
 }
 
 .content {
@@ -51,6 +55,7 @@ footer {
 
 * {
     font-family: 'Gabarito', cursive;
+    
 }
 
 .div-topo {
@@ -152,6 +157,7 @@ footer {
 #comprar img {
     width: 100px;
     height: 100px;
+
 }
 
 .btn {
@@ -163,5 +169,5 @@ footer {
 .test {
     display: flex;
     justify-content: center;
-padding-bottom: 20px;
+    padding-bottom: 20px;
 }
